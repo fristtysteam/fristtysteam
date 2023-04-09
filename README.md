@@ -1,7 +1,7 @@
-
-<h1 align="center">Hello Marco here.</h1>
+<p align="center"><img src="https://github.com/fristtysteam/fristtysteam/blob/main/4ebedd16065a5be7238f98e53857d27a.gif"/></p>
+<h1 align="center">Hello Marco here :D</h1>
 <h3 align="center">Ireland Based Programmer / Artist</h3>
-![logo](https://github.com/fristtysteam/fristtysteam/blob/main/tumblr_nvnqebji671uddo14o1_500.gif)
+
 
 - 🌱 I’m currently learning **Java and Sql** 
 
