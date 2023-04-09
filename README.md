@@ -1,3 +1,4 @@
+![logo](https://github.com/fristtysteam/fristtysteam/blob/main/download.gif)
 <h1 align="center">Hello Marco here.</h1>
 <h3 align="center">Ireland Based Programmer / Artist</h3>
 
