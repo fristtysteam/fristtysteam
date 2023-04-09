@@ -1,8 +1,9 @@
-![logo](https://github.com/fristtysteam/fristtysteam/blob/main/tumblr_nvnqebji671uddo14o1_500.gif)
+
 <h1 align="center">Hello Marco here.</h1>
 <h3 align="center">Ireland Based Programmer / Artist</h3>
+![logo](https://github.com/fristtysteam/fristtysteam/blob/main/tumblr_nvnqebji671uddo14o1_500.gif)
 
-- 🌱 I’m currently learning **Java and Sql**
+- 🌱 I’m currently learning **Java and Sql** 
 
 - 👨‍💻 All of my projects are available at [https://www.instagram.com/marcoladeira_/](https://www.instagram.com/marcoladeira_/)
 
