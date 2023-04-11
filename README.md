@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **Strongest Programmer(Self Proclaimed)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fristtysteam&" alt="fristtysteam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fristtysteam&show_icons=true&locale=en" alt="fristtysteam" /></p>
 
