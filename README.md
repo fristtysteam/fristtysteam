@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fristtysteam&label=Profile%20views&color=0e75b6&style=flat" alt="fristtysteam" /> </p>
 
-- 🌱 I’m currently learning **Java and Sql**
+- 🌱 I’m currently learning **Java, Sql , PHP, C# etc...**
 
-- 👨‍💻 All of my projects are available at [https://www.instagram.com/marcoladeira_/](https://www.instagram.com/marcoladeira_/)
-
-- 💬 Ask me about **Java for sure def**
+- 💬 Ask me about **Java for sure**
 
 - 📫 How to reach me **fristtysteam@gmail.com**
 
