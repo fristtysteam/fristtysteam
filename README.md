@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Sql , PHP, C# etc...**
 
-- 💬 Ask me about **Java for sure**
-
 - 📫 How to reach me **fristtysteam@gmail.com**
-
-- ⚡ Fun fact **Strongest Programmer(Self Proclaimed)**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fristtysteam&show_icons=true&locale=en" alt="fristtysteam" /></p>
