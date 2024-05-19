@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fristtysteam&label=Profile%20views&color=0e75b6&style=flat" alt="fristtysteam" /> </p>
 
-- 🌱 I’m currently learning **Java, Sql , PHP, C# etc...**
-
 - 📫 How to reach me **fristtysteam@gmail.com**
 
 
