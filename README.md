@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fristtysteam&label=Profile%20views&color=0e75b6&style=flat" alt="fristtysteam" /> </p>
 
-- 📫 How to reach me **marcoladeira@gmail.com**
+- 📫 How to reach me **marcoladeirawork@gmail.com**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fristtysteam&show_icons=true&locale=en" alt="fristtysteam" /></p>
