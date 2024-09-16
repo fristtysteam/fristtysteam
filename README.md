@@ -1,8 +1,8 @@
 
 <p align="center"><img src="https://github.com/fristtysteam/fristtysteam/blob/main/4ebedd16065a5be7238f98e53857d27a.gif"/></p>
 <h1 align="center"> Marco Ladeira</h1>
-<h3 align="center">Bachelors in Computer Science</h3>
-<h3 align="center">Honours in Software Development</h3>
+<h3 align="center">Bachelors Degree in Computer Science</h3>
+<h3 align="center">Honours Degree in Software Development</h3>
 <h3 align="center">QQI in Art Craft and Design</h3>
 
 
