@@ -1,7 +1,13 @@
 
 <p align="center"><img src="https://github.com/fristtysteam/fristtysteam/blob/main/4ebedd16065a5be7238f98e53857d27a.gif"/></p>
 <h1 align="center">Hello Marco here.</h1>
-<h3 align="center">Ireland Based Programmer / Artist</h3>
+<h3 align="center">Ireland Based Programmer</h3>
+<h3 align="center">Bachelors in Computer Science</h3>
+<h3 align="center">Honours in Software Development</h3>
+<h3 align="center">QQI in Art Craft and Design</h3>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fristtysteam&label=Profile%20views&color=0e75b6&style=flat" alt="fristtysteam" /> </p>
 
